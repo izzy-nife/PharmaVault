@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:1abb5473-8fd1-4e33-b326-db67ee155254
+SEQUENCE:0
+DTSTAMP:20251124T202947Z
+DTSTART:20251213T090000Z
+DTEND:20251213T140000Z
+SUMMARY:AWS STUDENT COMMUNITY DAY ILORIN 2025
+LOCATION:1515\, Ilorin\, 240102
+DESCRIPTION:### 🌍 **AWS Student Community Day Ilorin 2025**\n\n**Theme:
+  *Igniting the Next Generation of Builders: Cloud\, AI\, and Community Inn
+ ovation for a Smarter Future.***\n\nGet ready for the biggest student-led 
+ cloud gathering in Africa\, where innovation meets inspiration!\n\nThis De
+ cember\, the AWS Cloud Club at the University of Ilorin will host an unfor
+ gettable experience\, bringing together students\, tech enthusiasts\, deve
+ lopers\, and industry leaders for a week of learning\, building\, and netw
+ orking.\n\nFrom captivating keynote sessions to hands-on workshops\, tech 
+ demos\, and interactive panels\, participants will explore how Cloud and A
+ I are powering the next wave of global innovation.\nYou’ll gain exclusiv
+ e insights from AWS experts\, startup founders\, and tech builders\, learn
+ ing how to transform your ideas into scalable solutions.\n\n💡 **What to
+  Expect:**\n\n* ⚙️ **Practical Cloud &amp\; AI Workshops** — Learn\,
+  build\, and deploy solutions with expert guidance.\n* 🎤 **Keynote &amp
+ \; Tech Talks**— Discover the latest trends in cloud computing and intel
+ ligent technologies.\n* 🚀 **Innovation Pitch Sessions** — Showcase yo
+ ur ideas\, connect with investors and mentors\, and win exciting prizes.\n
+ * 🤝 **Networking &amp\; Career Opportunities** — Meet recruiters\, AW
+ S professionals\, and fellow innovators.\n* 🎮 **Interactive Demos &amp\
+ ; Challenges** — Compete\, collaborate\, and create using AWS tools and 
+ services.\n\nEvery participant leaves not just inspired but **empowered** 
+ with real-world skills\, **AWS resources**\, **exclusive swag**\, and conn
+ ections that last beyond the event.\n📅 **Date:** December 13th\, 2025\n
+ 📍 **Venue:** University of Ilorin\nJoin the movement. Build the future.
+ \n\n**#AWSCommunityDayIlorin2025 #BuildOnAWS #CloudClubsUnilorin**
+ORGANIZER;CN="Meetup Reminder":mailto:info@meetup.com
+URL;VALUE=URI:https://www.meetup.com/aws-cloud-club-the-university-of-ilor
+ in/events/311750583/
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

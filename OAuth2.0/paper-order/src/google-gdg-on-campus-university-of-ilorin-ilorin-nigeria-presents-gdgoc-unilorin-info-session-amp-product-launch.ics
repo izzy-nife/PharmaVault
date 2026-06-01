@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bevy Labs//Bevy//
+METHOD:REQUEST
+BEGIN:VEVENT
+SUMMARY:GDGoC Unilorin Info session &amp\; Product Launch
+DTSTART;VALUE=DATE-TIME:20251130T153000Z
+DTEND;VALUE=DATE-TIME:20251130T173000Z
+DTSTAMP;VALUE=DATE-TIME:20251130T153511Z
+UID:google/108920/Event/Bevy
+SEQUENCE:1764516911
+ATTENDEE;CN="Isaac Oyebanji";PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=T
+ RUE:MAILTO:Oyebanjiisaac217@gmail.com
+DESCRIPTION:Join us for the exciting GDGoC Unilorin Info session & Product
+  Launch event! This is an exceptional opportunity to disco...\n\nVirtual e
+ vent URL: https://gdg.community.dev/j/6tat9cw5vevx5/6274f93e-c8f0-4735-9b6
+ 0-1b07070ad038/
+LOCATION:https://gdg.community.dev/j/6tat9cw5vevx5/6274f93e-c8f0-4735-9b60
+ -1b07070ad038/
+PRIORITY:5
+STATUS:CONFIRMED
+URL:https://gdg.community.dev/j/6tat9cw5vevx5/6274f93e-c8f0-4735-9b60-1b07
+ 070ad038/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
